@@ -23,10 +23,11 @@ requirements.txt # Dependencies
 ![Architecture](Architecture__.png)
 ##  How to Run
 ```bash
-git clone https://github.com/yourusername/live-hand-gesture-math-solver.git
-cd live-hand-gesture-math-solver
+git clone https://github.com/yourusername/Live_Hand_Gesture_Based_Math_Equation_Solver.git
+cd Live_Hand_Gesture_Based_Math_Equation_Solver
+.venv\Scripts\activate
 pip install -r requirements.txt
-python app.py
+python src\app.py
 ```
 snapshots
 <img width="1836" height="997" alt="Screenshot 2025-08-20 233713" src="https://github.com/user-attachments/assets/e1bd1790-a3bd-46b7-b074-0cf573e3090d" />
